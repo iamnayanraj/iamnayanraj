@@ -1,6 +1,6 @@
 - 👋 Hi,I am Nayan Raj
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fullstack NodeJs and ReactJs Developer
+- 🌱 I’m currently  Fullstack NodeJs and ReactJs Developer
 - 📫 Reach me through <a href="https://www.linkedin.com/in/nayan-raj-2b6444150/">LinkedIn</a>
 
 <!---
